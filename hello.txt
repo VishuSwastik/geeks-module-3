@@ -1,0 +1,5 @@
+WE WILL BE LEARNING ABOUT GIT AND IT'S BASIC CMDS
+
+1. git init, we have initialized the git repository
+
+2.git status, we have checked the status of the repository
