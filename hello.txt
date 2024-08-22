@@ -1,5 +1,7 @@
 WE WILL BE LEARNING ABOUT GIT AND IT'S BASIC CMDS
 
+this is the change that is made after pushing the local repo into remote repo.
+
 1. git init, we have initialized the git repository
 
 2.git status, we have checked the status of the repository
